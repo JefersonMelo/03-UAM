@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Entre_50_e_100
+﻿namespace Entre_50_e_100
 {
     class Variaveis
     {
