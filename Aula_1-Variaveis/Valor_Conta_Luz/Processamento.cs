@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Valor_Conta_Luz
+﻿namespace Valor_Conta_Luz
 {
     class Processamento
     {
@@ -21,7 +17,7 @@ namespace Valor_Conta_Luz
         public double calcularQuilowatt( double salarioMinimo )
         {
             salarioMinimo = SalarioMinimo;
-            valorUnidadeWatt = (SalarioMinimo / 500);
+            valorUnidadeWatt = (salarioMinimo / 500);
             return valorUnidadeWatt;
         }
 
