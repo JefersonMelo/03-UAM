@@ -12,9 +12,7 @@ namespace Nome_Idade
 
         static void Main( string[] args )
         {
-            Processamento p = new Processamento();
             Variaveis v = new Variaveis();
-
 
             Console.Write("Digite Seu Nome: ");
             v.Nome = Console.ReadLine();
