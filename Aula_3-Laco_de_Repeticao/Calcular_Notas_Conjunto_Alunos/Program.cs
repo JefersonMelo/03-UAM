@@ -19,7 +19,7 @@ namespace Calcular_Notas_Conjunto_Alunos
         Acima de 3 e Menor que 7 EXAME
         DE 7 PARA CIMA APROVADO 
         */
-
+        //
         static void Main( string[] args )
         {
             Variaveis v = new Variaveis();
